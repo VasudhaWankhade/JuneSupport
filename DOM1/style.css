@@ -1,0 +1,13 @@
+.white {
+    width: 100px;
+    height: 100px;
+}
+
+#color {
+    font-size: 20px;
+}
+
+.ordered {
+    color: blue;
+    background-color: black;
+}

@@ -1,0 +1,32 @@
+/tell that userinput is available in the string  or not
+//remove spaces in between string
+//palidrome string
+//input==papap ---expected output--pap,apa,pap,p,a,p,a,p,papap--9 palidromes in word
+//count of vowels in the string
+//removing duplicate numbers
+//filtering out positive numbers only
+//removing duplicates and filtering out negaitive numbers only
+//separting out array of positive and negative values and add them
+//filtering out positive values 
+//filtering out negative values
+//finding longest word in the string
+//findout largest no from given array 
+//find out smallest no from array
+//How many times does num 12 repeated
+//number of occurance of charc in the string
+//make thrice of each key in object
+//calculate evenCount and oddCount
+//find out pairs
+//how many time num is repeated
+//occurence of charc in word
+//make factorial of each key in obj
+//finding out words having charc 5 in them
+//finding out Swapping of two numbers
+//sort an array from lowest to highest
+///FizzBuzz using function & FizzBizz without using function  & FizzBuzz in a single loop
+//verify prime number or not
+//print even-odd
+//find factorial of input number
+//Palidrome string & palidrome number
+//reverse string
+//Star program
