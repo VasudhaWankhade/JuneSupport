@@ -60,7 +60,7 @@ ulList.addEventListener('click', (event) => {
         } else if (event.target.className == 'down') {
             let li = event.target.parentElement
             let next = li.nextElementSibling
-            ulList.insertBefore(next, li)
+            ulList.insertBefore(next, li) // 
         }
     }
 })
