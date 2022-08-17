@@ -374,4 +374,10 @@ let last5 = vasudha.last5Transaction()
 console.log(last5)
 
 
-// overloading ==> same class same method different
+// overloading ==> same class same method different signature
+
+// Polymorphism ==> one thing having many forms
+
+/// amazon ==> iphone  (search)==> 
+// iphone 6 ==> 
+// iphone 6 s ==>
